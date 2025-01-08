@@ -24,3 +24,13 @@ In this problem, you need to write a program that takes two numbers as input fro
 
 ### Description:
 Write a program that takes the temperature in Celsius as input and converts it to Fahrenheit using the formula:
+
+
+## Problem 4: Area of a Circle
+### Description:
+Write a program to calculate the area of a circle. Take the radius as input
+
+
+## Problem 5: Volume of a Cylinder
+### Description:
+Write a program to calculate the volume of a cylinder. Take the radius and
