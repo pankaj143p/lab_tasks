@@ -1,4 +1,4 @@
-package Problems;
+package PracticeProblems;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 class Sum{

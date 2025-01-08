@@ -1,5 +1,4 @@
-package Problems;
-
+package PracticeProblems;
 public class VolumeOfCylinder {
     public static double volumeOfCylender(double radius, double height){
         return Math.PI * radius * radius * height;

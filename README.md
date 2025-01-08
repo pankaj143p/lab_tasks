@@ -1,10 +1,11 @@
-# lab_tasks
+# Program_Prerequisites
 
 # day1
 
 # Bridgelabz Assisted Problems
 
 Welcome to the Bridgelabz Assisted Problems repository! This repository contains several small programs that help you practice basic programming concepts.
+# Practice Problem 
 
 ## Problem 1: Welcome to Bridgelabz!
 
@@ -34,3 +35,6 @@ Write a program to calculate the area of a circle. Take the radius as input
 ## Problem 5: Volume of a Cylinder
 ### Description:
 Write a program to calculate the volume of a cylinder. Take the radius and
+
+## Self Problems
+
